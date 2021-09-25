@@ -1,0 +1,159 @@
+body {
+	padding-top: 52px;
+	background-color: #f1f6fb;
+}
+
+footer {
+	background-color: white;
+	min-height: 121px;
+	text-align: center;
+    padding-top: 14px;
+}
+
+.custom-bg {
+	/* background-color: #2874f0; */
+	background-color: #e40046;
+}
+.sign-up-logo {
+    width: 25%;
+    height: auto;
+    margin-left: 118px;
+}
+
+.dropdown-menu .dropdown-item:hover {
+	background-color: #d1cac9;
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.page-item .active {
+	background:#e40046;
+	color:white;
+	font-weight:bolder;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.bank-offers-list li {
+	list-style:none;
+}
+
+
+.index-page-product:hover .product-name {
+	color: blue;
+}
+
+.admin .card {
+	border: 1px solid #e40046;
+}
+
+
+.admin .card:hover {
+	background-color: #c3c7c4;
+	cursor: pointer;
+}
+
+.card-img-top {
+	height: 200px;
+	max-width: 100%;
+	width: auto;
+	padding: 8px 8px;
+}
+
+.discount-label {
+	color: #388e3c;
+    font-size: 13px;
+    letter-spacing: -.2px;
+    font-weight: 500;
+}
+
+.original-price-label {
+	text-decoration: line-through;
+	font-size: 15px;
+	color: #878787;
+}
+
+.cart-item-quantity {
+	position: absolute;
+    width: 21px;
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 1px;
+}
+
+.price-details ul li {
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+
+.cart-item-remove {
+	background-color:orange;
+	font-size:15px; 
+	font-weight:bold;
+}
+
+.cart-item-remove:hover {
+	background-color:red;
+}
+
+
+/*toast*/
+#toast {
+    min-width: 300px;
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    margin-left: -150px;
+    background-color: black;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    z-index: 1;
+    font-size: 18px;
+    visibility: hidden;
+    box-shadow: 0px 0x 100px #888888;
+}
+
+#toast.display {
+    visibility: visible;
+    animation: fadeIn 2s, fadeOut 2s 2.5s;
+}
+
+
+@keyframes fadeIn {
+    from {
+        bottom: 0;
+        opacity: 0;
+    }
+
+    to{
+        bottom: 30px;
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    from{
+        bottom: 30px;
+        opacity: 1;
+    }
+    to{
+        bottom: 0;
+        opacity: 0;
+    }
+}
+
+
