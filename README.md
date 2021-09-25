@@ -1,10 +1,10 @@
 # Happycart-project
 
-## [Happycart_project_demonstration-video](https://vimeo.com/614506482)
+## [Happycart_project_demonstration-video_link](https://vimeo.com/614506482)
 
 ----------
 
-##### This is an ecommerce project similar to other ecommerce site like flipkart,amazon...
+#### This is an ecommerce project similar to other ecommerce site like flipkart,amazon...
 * Here user can register themselves then add product to cart (also remove products from cart if he wants) and fill their billing address and then do checkout to get the product placed confirmation
 * User can filter out products based on category or can search product by category name e.g. laptops, mobiles and so on....
 * Admin can keep track of user, products and categories.. and also can add category as well as product for each category
