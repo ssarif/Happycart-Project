@@ -1,2 +1,3 @@
 *.js linguist-detectable=false
-*.html linguist-detectable=true
+
+webapp/* linguist-vendored
