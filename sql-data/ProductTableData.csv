@@ -1,0 +1,139 @@
+pId,pDesc,pDiscount,pName,pPhoto,pPrice,pQuantity,category_categoryId
+1,"NVIDIA GeForce GTX 1650
+15.6 inch Full HD IPS Anti-glare Micro-edge WLED-backlit Display (Brightness: 250 nits, 141 ppi, Color Gamut: 45% NTSC)",14,"HP Ryzen 5 Hexa Core 4600H",laptop1.jpeg,59990,2,1
+2,"4 GB RAM/64 GB ROM 16.59 cm (6.53 inch) Full HD+ Display 48MP + 8MP + 2MP + 2MP | 8MP Front Camera 6000 mAh Battery Qualcomm Snapdragon 662 Processor",17,"REDMI 9 Power",mobile1.jpeg,11499,2,2
+3,"Power Output(RMS): 5 W
+Power Source: Battery
+Battery life: 24 hr | Charging time: 4 hr
+Bluetooth Version: 5
+Wireless range: 10 m
+Wireless music streaming via Bluetooth
+Battery life: Mid-Volume 24hrs
+Charging time: 3-4hrs
+Built-in mic for hands free calling",60,"Mivi Roam2 5 W Bluetooth Speaker",mivi-speaker.jpeg,1199,4,3
+4,"NVIDIA GeForce GTX 1650
+15.6 inch Full HD LED Backlit IPS ComfyView Display (16:9 Aspect Ratio, 45% NTSC Color Gamut)
+Light Laptop without Optical Disk Drive
+Pre-installed Genuine Windows 10 OS
+",35,"acer Aspire 7 Ryzen 5 Hexa Core 5500U",acer-aspire.jpeg,56990,3,1
+5,"4 GB RAM | 128 GB ROM | Expandable Upto 256 GB
+16.51 cm (6.5 inch) HD+ Display
+50MP + 2MP + 2MP | 8MP Front Camera
+5000 mAh Battery
+Unisoc T610 Octa Core Processor",14,"realme C25Y",realmec25y.jpeg,11999,7,2
+6,"8 GB/256 GB SSD/Windows 10 
+VOSTRO 3400 Thin and Light Laptop  
+14 inches, Accent Black, 1.58 kg, With MS Office",5,"DELL Vostro Core i3 11th Gen",dell-vostro.jpeg,40990,3,1
+7,"Carry It Along 2_in_1 Laptop
+14 inch Full HD LED Backlit Anti-glare Display 
+250 nits Brightness, 45% NTSC Color Gamut, 82? Screen-to-body Ratio, IPS Level Panel
+Finger Print Sensor for Faster System Access
+Light Laptop without Optical Disk Drive",20,"ASUS Vivo Book Flip Ryzen 5 Hexa Core",asus-vivobook.jpeg,59990,4,1
+8,"6 GB RAM | 64 GB ROM | Expandable Upto 512 GB
+16.94 cm (6.67 inch) Full HD+ Display
+48MP + 8MP + 5MP + 2MP | 16MP Front Camera
+5000 mAh Lithium-ion Polymer Battery
+Qualcomm Snapdragon 720G Processor",16,"POCO M 2 Pro (Two Shades of Black, 64 GB)",poc-m2.jpeg,14999,2,2
+9,"15.6 inch Full HD LED Backlit IPS Display (60Hz Refresh Rate, 45%NTSC Color Gamut)
+Light Laptop without Optical Disk Drive
+Pre-installed Genuine Windows 10 OS",8,"MSI Bravo 15 Ryzen 5 Hexa Core 4600H",msi-bravo.jpeg,60990,45,1
+10,"Intel Core i5 1135G7 processor 256GBSSD  1 TB HDD W10 Home 8 GB RAM 15.6" display with Full HD Display Pure Silver 1.65 Kg",1,"acer Aspire 5 Core i5 11th Gen",acer-aspire-5.jpeg,53990,40,1
+11,"16 GB 1 TB SSD Windows 10 Home 6 GB Graphics NVIDIA GeForce RTX 3060 144 Hz  GF65 Thin 10UE-410IN Gaming Laptop   15.6 inch, Black, 1.86 kg ",11,"MSI GF65 Thin Core i7 10th Gen",msi-gf56.jpeg,109990,5,1
+12,"16 GB 512 GB SSD Windows 10 Home  14-dv0055TU Thin and Light Laptop  14 inches, Tranquil Pink, 1.41 kg, With MS Office",9,"HP HP Pavilion Core i5 11th Gen",hp-pavilion-core.jpeg,65990,11,1
+13,"8 GB 512 GB SSD Windows 10 Home 15ITL6 Thin and Light Laptop  15.6 inch, Arctic Grey, 1.65 kg, With MS Office",22,"Lenovo IdeaPad 3 Core i3 11th Gen",lenovo-ideapad-core-i3.jpeg,44490,52,1
+14,"4 GB 512 GB SSD Windows 10 Home X413JA EK261T X413JA-EB301T Thin and Light Laptop  14 inch, Cobalt Blue, 1.40 kg",16,"ASUS VivoBook Ultra 14 Core i3 10th Gen",asus-vivobook-ultra-i3.jpeg,41990,15,1
+15,"16 GB 512 GB SSD Windows 10 Home 13-BE0030AU Thin and Light Laptop  13.3 inch, Natural Silver, 0.97 kg, With MS Office",13,"HP Pavilion Aero Ryzen 5 Hexa Core 5600U",hp-pavilion-aero.jpeg,77990,15,1
+16,"16 GB 1 TB SSD Windows 10 Home UM325SA KG701TS Thin and Light Laptop 13.3 inch, Pine Grey, 1.14 Kg, With MS Office",17,"ASUS Ryzen 7 Octa Core 5800U",asus-ryzen7-octa-core.jpeg,101990,25,1
+17,"16 GB 1 TB SSD Windows 10 Home 4 GB Graphics NVIDIA GeForce RTX 3050 144 Hz G513QC HN126T Gaming Laptop 15.6 inch, Eclipse Grey, 2.10 kg",20,"ASUS ROG Strix G15 (2021) Ryzen 9 Octa Core R9-5900HX",asus-rog-strix.jpeg,102990,45,1
+18,"8GB 256GB SSD Mac OS Big Sur  MGN63HN A 13.3 inch, Space Grey, 1.29 kg 3.3 inch Quad LED Backlit IPS Display (227 PPI, 400 nits Brightness, Wide Colour (P3), True Tone Technology) Light Laptop without Optical Disk Processing & Multitasking",4,"APPLE MacBook Air M1 8GB 256GB",macbook-air-m1.jpeg,88990,25,1
+19,"8 GB 1 TB HDD Windows 10 Home Vostro 3401 Thin and Light Laptop 14 inch, Black, 1.58 kg, With MS Office 14 inch Full HD LED Backlit Anti-glare Display Stylish & Portable Thin and Light Laptop Light Laptop without Optical Disk Drive",0,"DELL Vostro Core i3 10th Gen",dell-vostro.jpeg,38777,12,1
+20,"8 GB 256 GB SSD Windows 10  Inspiron 5410 2 in 1 Laptop  14 inches, Platinum Silver, 1.56 kg, With MS Office Carry It Along 2 in 1 Laptop Finger Print Sensor for Faster System Access Light Laptop without Optical Disk Drive
+",24,"DELL Inspiron Core i3 11th Gen",dell-inspiron-core-i3.jpeg,52290,56,1
+21,"64 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 12MP + 12MP | 12MP Front Camera
+A14 Bionic Chip with Next Generation Neural Engine Processor
+Ceramic Shield
+Industry-leading IP68 Water Resistance
+All Screen OLED Display
+12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR Recording",2,"APPLE iPhone 12 (Green, 64 GB)",iphone12.jpeg,64149,56,2
+22,"4 GB RAM 64 GB ROM Expandable Upto 512 GB 16.59 cm (6.53 inch) Full HD+ Display
+13MP + 8MP + 5MP + 2MP | 8MP Front Camera
+5000 mAh Lithium Polymer Battery
+MediaTek Helio G80 Processor",16,"POCO M 2 Reloaded (Mostly Blue, 64 GB)  (4 GB RAM)",poco-m2-reloaded.jpeg,9999,25,2
+23,"8 GB RAM 128 GB ROM Expandable Upto 256 GB 16.51 cm (6.5 inch) Full HD+ Display
+48MP + 8MP + 2MP | 16MP Front Camera
+5000 mAh Battery
+MediaTek Dimensity 800U Processor",8,"realme Narzo 30 Pro 5G (Sword Black, 128 GB)  (8 GB RAM)",realme-narzo-30-pro.jpeg,20149,45,2
+24,"3 GB RAM | 32 GB ROM Expandable Upto 256 GB 17.32 cm (6.82 inch) HD+ Display
+13MP + Depth Sensor | 8MP Front Camera
+6000 mAh Li-ion Polymer Battery
+MediaTek Helio G35 Processor",17,"Infinix Hot 10 Play (Aegean Blue, 32 GB)  (3 GB RAM)",infinix-hot-play-10.jpeg,8299,45,2
+25,"4 GB RAM 64 GB ROM Expandable Upto 256 GB 17.32 cm (6.82 inch) HD+ Display
+48MP + 2MP + AI Lens Camera | 8MP Front Camera
+6000 mAh Li-ion Polymer Battery
+MediaTek Helio G85 Processor
+90Hz Refresh Rate",23,"Infinix Hot 10S (Morandi Green, 64 GB)  (4 GB RAM)",infinix-hot-10x.jpeg,9999,26,2
+26,"6 GB RAM 128 GB ROM Expandable Upto 256 GB 17.65 cm (6.95 inch) Full HD+ Display
+48MP + 2MP + 2MP | 16MP Front Camera
+5000 mAh Li-ion Polymer Battery
+MediaTek Helio G85 Processor
+18 W Charger",16,"Infinix Note 10 (Emerald Green, 128 GB)  (6 GB RAM)",infinix-note-10-emerald.jpeg,12499,55,2
+27,"8 GB RAM 128 GB ROM 17.22 cm (6.78 inch) Full HD+ Display
+64MP + 13MP + 5MP | 24MP Front Camera
+6000 mAh Lithium Polymer Battery
+Qualcomm Snapdragon 888 (SM8350) Processor",10,"ASUS ROG Phone 5 (Black, 128 GB)  (8 GB RAM)",asus-rog-phone-5.jpeg,49999,55,2
+28,"12 GB RAM 128 GB ROM 16.74 cm (6.59 inch) Full HD+ Display
+64MP + 13MP + 5MP | 24MP Front Camera
+6000 mAh Lithium Polymer Battery
+Qualcomm Snapdragon 865+ (SM8250) Processor",13,"ASUS ROG Phone 3 (Black, 128 GB)  (12 GB RAM)",asus-rog-phone-3.jpeg,49999,45,2
+29,"6 GB RAM 128 GB ROM Expandable Upto 2 TB 15.75 cm (6.2 inch) Full HD+ Display
+12MP + 8MP | 8MP Front Camera
+3300 mAh Battery
+Qualcomm Snapdragon 845 Octa Core Processor",17,"ASUS Zen Fone 5Z (Midnight Blue, 128 GB)  (6 GB RAM)",asus-zonefone-5z.jpeg,36299,55,2
+30,"6 GB RAM 64 GB ROM Expandable Upto 2 TB 16.23 cm (6.39 inch) Full HD+ Display
+48MP + 13MP | 48MP + 13MP Dual Front Camera
+5000 mAh Battery
+Qualcomm SD 855 Processor
+Flip Camera",21,"ASUS 6 Z (Black, 64 GB)  (6 GB RAM)",asus-6z.jpeg,35999,45,2
+31,"3 GB RAM 32 GB ROM Expandable Upto 256 GB 14.48 cm (5.7 inch) HD+ Display
+13MP + 2MP | 8MP Front Camera
+3000 mAh Battery
+Qualcomm Snapdragon Octa Core Processor",12,"Honor 7 A (Blue, 32 GB)  (3 GB RAM)",honor-7a.jpeg,8990,45,2
+32,"8 GB RAM 128 GB ROM Expandable Upto 512 GB 16.64 cm (6.55 inch) Full HD+ Display
+64MP + 8MP + 5MP | 16MP Front Camera
+4250 mAh Li-Polymer Battery
+Qualcomm Snapdragon 732G Processor",7,"Mi 11 Lite (Vinyl Black, 128 GB)  (8 GB RAM)",mi-11-lite.jpeg,239997,45,2
+33,"6 GB RAM 128 GB ROM 16.94 cm (6.67 inch) Full HD+ Display
+108MP + 8MP + 2MP + 2MP | 16MP Front Camera
+4820 mAh Battery
+QualcommÂ® Snapdragonâ¢ 750G Processor",5,"Mi 10i (Midnight Black, 128 GB)  (6 GB RAM)",mi-10i.jpeg,22950,45,2
+34,"8 GB RAM 128 GB ROM 16.94 cm (6.67 inch) Full HD+ Display
+108MP + 8MP + 2MP + 2MP | 16MP Front Camera
+4820 mAh Battery
+QualcommÂ® Snapdragonâ¢ 750G Processor",15,"Mi 10i (Atlantic Blue, 128 GB)  (8 GB RAM)",mi-10i-atlantic-blue.jpeg,24890,45,2
+35,"Power Output(RMS): 5 W Battery life: 4 hr Bluetooth Version: 5.0
+Wireless range: 10 m
+Wireless music streaming via Bluetooth
+IPX7: Water Resistance
+Driver Size: 52 mm | TWS Feature",66,"boAt Stone 190F 5 W Bluetooth Speaker  (Blue, Stereo Channel)",boat-stone-190f.jpeg,999,45,3
+36,"Power Output(RMS): 14 W Power Source: USB Cable Battery life: 8 hrs | Charging time: 4 hrs
+Bluetooth Version: 2.1
+Wireless range: 10 m
+Wireless music streaming via Bluetooth
+Built-in mic for hands free calling
+Using simple touch controls change music tracks and control volume
+IPX 5 splashproof- Enjoy music even in the shower/ rain",59,"boAt Stone 1000 14 W Portable Bluetooth Speaker  (Black, Stereo Channel)",boat-stone-1000.jpeg,2799,55,3
+37,"Power Output(RMS): 5 W Power Source: Battery Battery life: 7 hrs | Charging time: 2 hrs
+Bluetooth Version: 5
+Wireless range: 10 m
+Wireless music streaming via Bluetooth
+Memory Card Slot
+Built-in mic for hands free calling
+IPX 6 splashproof- Enjoy music even in the shower/ rain",67,"boAt Stone Grenade 5 W Portable Bluetooth Speaker  (Charcoal Black, Mono Channel)",boat-stone-grenade.jpeg,1299,45,3
+38,"Power Output(RMS): 5 W Power Source: Battery Battery life: 12 hr | Charging time: 2 hr
+Bluetooth Version: 5
+Wireless range: 10 m
+Wireless music streaming via Bluetooth",55,"Mivi Play 5 W Portable Bluetooth Speaker  (Black, Mono Channel)",mivi-play-5.jpeg,899,45,3
+39,"With Mic:Yes Connector type: 3.5 mm Bluetooth version: 5.0 Wireless range: 10 m
+Playback: Up to 8 Hours
+Driver Size: 40mm
+Dual Connectivity: Yes (Bluetooth & AUX)",56,"boAt Rockerz 370 Bluetooth Headset  (Buoyant Black, On the Ear)",boat-rockerz-370.jpeg,1099,55,4
