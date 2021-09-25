@@ -37,8 +37,8 @@
   1. download or clone this project
   2. unzip the file
   3. Open eclipse ide and import the project
-  4. maven -> update the project (U should have maven installed in..which gives a stuctured file directories to keep all files in specific folder..also get pom.xml to keep all dependencies in on place)
-  5. run as server (U should have apache server with you --- I used Apache Tomcat v8.5)
+  4. maven -> update the project (U should have maven installed in..which gives a stuctured file directories to keep all files in specific folder...also get pom.xml to keep all dependencies in on place)
+  5. run as server (U should have apache server with you...I used Apache Tomcat v8.5)
   
 ---------------------------------
 * for sql data go to **Happycart-project/sql-data** folder
